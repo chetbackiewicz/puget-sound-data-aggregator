@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS techniques;
+DROP TABLE IF EXISTS regulations;
+DROP TABLE IF EXISTS species;
+DROP TABLE IF EXISTS marine_areas;
+DROP TABLE IF EXISTS stations;
+DROP TABLE IF EXISTS api_probes;
